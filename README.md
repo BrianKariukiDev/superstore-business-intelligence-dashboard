@@ -126,12 +126,32 @@ Based on the analysis, management should:
 
 ## 📁 Project Files
 
+```text
+analystlab-africa-week2-superstore/
+│
+├── README.md
+│
+├── data/
+│   └── superstore_dataset.csv
+│
+├── powerbi/
+│   └── Superstore_Sales_Dashboard.pbix
+│
+├── reports/
+│   ├── Business_Intelligence_Overview.pdf
+│   └── Executive_Summary.pdf
+│
+└── dashboard/
+    └── Superstore_Dashboard.pdf
+```
+
 | File | Description |
 |---|---|
-| `Superstore_Sales_Dashboard.pbix` | Microsoft Power BI dashboard project |
-| `Dashboard.png` | Exported dashboard image |
-| `Business_Intelligence_Overview.pdf` | Business Intelligence overview report |
-| `Executive_Summary.pdf` | Executive summary containing insights, risks, opportunities and recommendations |
+| `data/superstore_dataset.csv` | Superstore sales dataset used for the analysis |
+| `powerbi/Superstore_Sales_Dashboard.pbix` | Microsoft Power BI dashboard project |
+| `reports/Business_Intelligence_Overview.pdf` | Business Intelligence overview report |
+| `reports/Executive_Summary.pdf` | Executive summary containing key insights, risks, opportunities, and recommendations |
+| `dashboard/Superstore_Dashboard.pdf` | Exported Power BI dashboard |
 
 ---
 
